@@ -1,0 +1,31 @@
+_repo: The-Red-Moccasins--A-Story_31252
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heady, Morrison
+    alias: Heady, James Morrison
+    birthdate: 1829
+    deathdate: 1915
+    gutenberg_agent_id: '32396'
+    url: http://www.gutenberg.org/2009/agents/32396
+description: ''
+gutenberg_issued: '2010-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31252'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Fiction'
+- !lcsh 'Pride and vanity -- Fiction'
+- !lcsh 'Kentucky -- Fiction'
+- !lcsh 'Elves -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Magic -- Fiction'
+title: 'The Red Moccasins: A Story'
+url: http://www.gutenberg.org/ebooks/31252
